@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3695a859-6d1b-4429-a155-b81bc0ee169e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/TestStatistics/src/main/java/Yearup/pluralsight/TestStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/src/main/java/Yearup/pluralsight/AddVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/src/main/java/Yearup/pluralsight/ListVehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/src/main/java/Yearup/pluralsight/SearchColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/src/main/java/Yearup/pluralsight/SearchMakeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/src/main/java/Yearup/pluralsight/SearchPriceRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/src/main/java/Yearup/pluralsight/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook2/VehicleInventory/src/main/java/Yearup/pluralsight/VehicleInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Online-Shopping-Store/src/main/java/YearUp/pluralsight/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Online-Shopping-Store/src/main/java/YearUp/pluralsight/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/Exercise4/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/Exercise4/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/PayrollCalc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/Rental-Car-Calculator/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/Rental-Car-Calculator/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook1/SandwichShop/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook1/SandwichShop/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/AddressBuilder/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/src/main/java/YearUp/pluralsight/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/src/main/java/YearUp/pluralsight/CellPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/src/main/java/YearUp/pluralsight/CellPhoneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/CellPhoneService/src/main/java/YearUp/pluralsight/CellPhoneApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameGenerator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/FullNameParser/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/HighScoreWins/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/src/main/java/YearUp/pluralsight/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/src/main/java/YearUp/pluralsight/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/src/main/java/YearUp/pluralsight/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/LoopingExercises/src/main/java/YearUp/pluralsight/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook2/TheaterReservations/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2n7hzjPLxtsZyGQUmdj0mHSIH3u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/chrispham/Library/CloudStorage/OneDrive-YearUp-BOS/IntelliJ YearUp/Java-Developement/Workbook3/FamousQuotes/src/main/java/Yearup/pluralsight/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3695a859-6d1b-4429-a155-b81bc0ee169e" name="Changes" comment="" />
+      <created>1728330288675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728330288675</updated>
+    </task>
+    <servers />
+  </component>
+</project>
