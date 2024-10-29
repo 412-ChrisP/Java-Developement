@@ -42,16 +42,23 @@ public class Room
 
     public void checkIn()
     {
-
+        if (!isOccupied && !isDirty)
+        {
+            isOccupied = true;
+            isDirty = true;
+        }
     }
 
-    public void checkOut()
+    public void checkout()
     {
-
+        isOccupied = false;
     }
 
     public void cleanRoom()
     {
-
+        if (!isOccupied)
+        {
+            isDirty = false;
+        }
     }
 }
