@@ -10,19 +10,24 @@ public class Main
         String username = "root";
         String password = "CPham213";
 
-        String query = "SELECT ProductName FROM Products";
+        String query = "SELECT ProductID, ProductName, UnitPrice, UnitsInStock FROM Products";
 
         Connection connection = DriverManager.getConnection(url, username, password);
-
         Statement statement = connection.createStatement();
         ResultSet resultSet = statement.executeQuery(query);
 
-        System.out.println("Products:");
+        System.out.printf("%-5s %-35s %-15s %-10s\n", "Id", "Name", "Price", "Stock");
+        System.out.printf("%-5s %-35s %-15s %-10s\n", "----", "---------------------", "----------", "------");
 
         while (resultSet.next())
         {
-            System.out.println(resultSet.getString("ProductName"));
-        }
+            int productId = resultSet.getInt("ProductID");
+            String productName = resultSet.getString("ProductName");
+            double unitPrice = resultSet.getDouble("UnitPrice");
+            int unitsInStock = resultSet.getInt("UnitsInStock");
 
+
+            System.out.printf("%-5d %-35s %7.2f %12d\n", productId, productName, unitPrice, unitsInStock);
+        }
     }
 }
