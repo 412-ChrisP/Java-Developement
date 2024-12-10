@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9651618-067c-4a8e-b0c2-d5af2b7fc881" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../WorkBook9/NorthwindTradersSpringBoot/src/main/java/com/pluralsight/NorthwindTradersSpringBoot/CommandLineApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook9/NorthwindTradersSpringBoot/src/main/java/com/pluralsight/NorthwindTradersSpringBoot/DAO/Impl/SimpleProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook9/NorthwindTradersSpringBoot/src/main/java/com/pluralsight/NorthwindTradersSpringBoot/DAO/Interfaces/IProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook9/NorthwindTradersSpringBoot/src/main/java/com/pluralsight/NorthwindTradersSpringBoot/DAO/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WorkBook9/NorthwindTradersSpringBoot/src/main/java/com/pluralsight/NorthwindTradersSpringBoot/DAO/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggerExercise/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NorthwindProcedures/src/main/java/YearUp/pluralsight/DataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Yearup/pluralsight/db/DataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Yearup/pluralsight/models/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Yearup/pluralsight/models/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NorthwindProducts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NorthwindProducts/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NorthwindProducts/src/main/java/YearUp/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NorthwindProducts/src/main/java/YearUp/pluralsight/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "412-ChrisP"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/412-ChrisP/Java-Developement.git",
+    "accountId": "766aebbd-9c8c-44be-8f8b-e97744df28a5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pfle7DWJjkUGAcFv8XUsuWJPNS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/thebe/OneDrive - Year Up- BOS/IntelliJ YearUp/Java-Developement/Workbook8/SakilaMovies",
+    "onboarding.tips.debug.path": "/Users/chrispham/Library/CloudStorage/OneDrive-YearUp-BOS/IntelliJ YearUp/Java-Developement/Workbook8/SakilaMovies/src/main/java/Yearup/pluralsight/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9651618-067c-4a8e-b0c2-d5af2b7fc881" name="Changes" comment="" />
+      <created>1733165105340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733165105340</updated>
+    </task>
+    <servers />
+  </component>
+</project>
